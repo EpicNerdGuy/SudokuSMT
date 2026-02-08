@@ -136,5 +136,3 @@ SudokuSMT/
 
 ---
 
-This version reads tighter, scans well for recruiters, and still clearly communicates that you understand SMT and constraint modeling.
-
